@@ -21,11 +21,11 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*4)+ 1);
 var xxx=null;
-if(x=="1"){xxx="03/the-right-education-is-essential-for.html"}
+if(x=="1"){xxx="03/watching-forex-volatility-on-currensee.html"}
 if(x=="2"){xxx="03/trading-price-action-reversal-signals.html"}
 if(x=="3"){xxx="03/trade-like-warren-buffet-and-use.html"}
 if(x=="4"){xxx="03/three-new-ways-to-use-rsi-in-forex.html"}
-if(x=="5"){xxx="03/watching-forex-volatility-on-currensee.html"}a_to_ve[i].href="https://linkcong.blogspot.com/2019/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="03/the-right-education-is-essential-for.html"}a_to_ve[i].href="https://linkcong.blogspot.com/2019/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
